@@ -2,11 +2,13 @@
     "6270543236": {
         "coins": 9999,
         "level": 999,
+        "coins_usage": 4995,
         "join_date": "2025-12-12"
     },
     "6353236171": {
-        "coins": 100,
+        "coins": 1000,
         "level": 99,
+        "coins_usage": 495,
         "join_date": "2025-12-12"
     }
 }
