@@ -28,8 +28,11 @@
         "created_by": 6353236171
     },
     "6P7WSUSP": {
-        "coins": 3,
+        "coins": 1,
         "expiration_time": 1725781727.931382,
-        "created_by": 6353236171
+        "created_by": 6353236171,
+        "redeemed_by": [
+            6353236171
+        ]
     }
 }
