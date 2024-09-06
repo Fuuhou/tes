@@ -14,6 +14,11 @@
             "vpn_type": "vmessws",
             "username": "jojo",
             "expiration": "12 Sep 2024 07:55"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "joppo",
+            "expiration": "12 Sep 2024 08:24"
         }
     ]
 }
