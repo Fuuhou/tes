@@ -19,6 +19,11 @@
             "vpn_type": "vmessws",
             "username": "joppo",
             "expiration": "12 Sep 2024 08:24"
+        },
+        {
+            "vpn_type": "trojangrpc",
+            "username": "paok",
+            "expiration": "12 Sep 2024 08:25"
         }
     ]
 }
