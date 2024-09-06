@@ -9,6 +9,11 @@
             "vpn_type": "vmessws",
             "username": "hara",
             "expiration": "11 Sep 2024 17:53"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "jojo",
+            "expiration": "12 Sep 2024 07:55"
         }
     ]
 }
