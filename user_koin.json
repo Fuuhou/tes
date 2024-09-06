@@ -5,7 +5,8 @@
         "coins_usage": 49
     },
     "6270543236": {
-        "coins": 10000019,
-        "join_date": "5 Sep 2099"
+        "coins": 10000018,
+        "join_date": "5 Sep 2099",
+        "coins_usage": 1
     }
 }
