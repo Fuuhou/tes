@@ -1,6 +1,7 @@
 {
     "103.217.210.45": {
-        "stock_vpn": 10
+        "stock_vpn": 10,
+        "server_name": "msa"
     },
     "91.192.81.123": {
         "stock_vpn": 10
