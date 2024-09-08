@@ -8,6 +8,7 @@
         "server_name": "melbi"
     },
     "15.235.198.69": {
-        "stock_vpn": 9
+        "stock_vpn": 9,
+        "server_name": "ovh"
     }
 }
