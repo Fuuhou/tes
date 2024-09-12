@@ -43,7 +43,8 @@
         {
             "vpn_type": "vmessws",
             "username": "ajshs",
-            "expiration": "18 Sep 2024 20:33"
+            "expiration": "25 Sep 2024 05:54",
+            "host": "sg1"
         },
         {
             "vpn_type": "vlessws",
