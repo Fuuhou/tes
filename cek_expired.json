@@ -1,1 +1,10 @@
-
+{
+    "6353236171": [
+        {
+            "vpn_type": "vmessws",
+            "username": "sasa",
+            "expiration": "19 Sep 2024 11:31",
+            "host": "id1"
+        }
+    ]
+}
