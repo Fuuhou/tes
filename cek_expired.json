@@ -1,16 +1,1 @@
-{
-    "6353236171": [
-        {
-            "vpn_type": "vmessws",
-            "username": "sasa",
-            "expiration": "25 Sep 2024 19:42",
-            "host": "id1"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "chipz",
-            "expiration": "20 Sep 2024 19:49",
-            "host": "id1"
-        }
-    ]
-}
+
