@@ -1,14 +1,11 @@
 {
     "103.217.210.45": {
-        "stock_vpn": 10,
-        "server_name": "msa"
+        "stock_vpn": 10
     },
     "91.192.81.123": {
-        "stock_vpn": 10,
-        "server_name": "melbi"
+        "stock_vpn": 10
     },
     "15.235.198.69": {
-        "stock_vpn": 9,
-        "server_name": "ovh"
+        "stock_vpn": 9
     }
 }
