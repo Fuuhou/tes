@@ -1,17 +1,12 @@
 {
     "103.217.210.45": {
         "host": "sg1",
-        "stock_vpn": 10,
-        "limit_stock_vpn": 20
+        "stock_vpn": 6,
+        "limit_stock_vpn": 6
     },
     "91.192.81.123": {
         "host": "id1",
-        "stock_vpn": 8,
-        "limit_stock_vpn": 15
-    },
-    "15.235.198.69": {
-        "host": "kg",
-        "stock_vpn": 5,
-        "limit_stock_vpn": 10
+        "stock_vpn": 40,
+        "limit_stock_vpn": 40
     }
 }
