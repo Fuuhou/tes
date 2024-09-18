@@ -10,10 +10,16 @@
         ]
     },
     "9gBIe21AaX": {
-        "coins": 2,
+        "coins": 1,
         "expiration_time": "20 Sep 2024 18:20",
         "created_by": 6353236171,
         "created_by_fullname": "\u028a\u057c\u04c4\u057c\u0585\u0561\u057c",
-        "redeems": []
+        "redeems": [
+            {
+                "user_id": 6353236171,
+                "fullname": "\u028a\u057c\u04c4\u057c\u0585\u0561\u057c",
+                "date": "18 Sep 2024 18:21"
+            }
+        ]
     }
 }
