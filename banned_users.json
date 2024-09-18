@@ -1,3 +1,11 @@
 {
-    "banned_users": []
+    "banned_users": [
+        {
+            "user_id": 6795597591,
+            "name": "Pecel Somay",
+            "username": "pecelsomay",
+            "banned_date": "18-09-2024 11:36",
+            "reason": "tes"
+        }
+    ]
 }
