@@ -1,11 +1,12 @@
 {
     "aBbEu5BzMz": {
-        "coins": 1,
+        "coins": 0,
         "expiration_time": "20 Sep 2024 17:21",
         "created_by": 6353236171,
         "created_by_fullname": "\u028a\u057c\u04c4\u057c\u0585\u0561\u057c",
         "redeemed_by": [
-            6353236171
+            6353236171,
+            6795597591
         ]
     }
 }
