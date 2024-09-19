@@ -4,13 +4,13 @@
             "nama_profil": "frey",
             "file_id": "AgACAgUAAx0CeAABETgAAhtdZuvhGqeZr8KmMdB92LPCaesby0AAAoS-MRu-NGFXEGuW4q1oxFsBAAMCAAN5AAM2BA",
             "media_type": "photo",
-            "main": true
+            "main": false
         },
         {
             "nama_profil": "zoy",
             "file_id": "AgACAgUAAxkDAAIKiGbrg525V-RDXCAYlxO1CC2roqp2AAIqwDEbGtpJV63NuZ8AAfbLrwEAAwIAA3gAAzYE",
             "media_type": "photo",
-            "main": false
+            "main": true
         }
     ]
 }
