@@ -17,7 +17,7 @@
         {
             "vpn_type": "ssh",
             "username": "paul",
-            "expired": "26-09-2024 04:47",
+            "expired": "26-09-2024 04:48",
             "host": "id1",
             "label": "STB"
         }
