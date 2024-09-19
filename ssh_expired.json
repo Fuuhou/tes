@@ -27,6 +27,13 @@
             "expired": "02-10-2024 04:57",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "gopekkok",
+            "expired": "27-09-2024 05:37",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
