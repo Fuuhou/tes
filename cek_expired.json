@@ -15,13 +15,6 @@
             "expiration": "25-09-2024 16:48",
             "host": "id1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "nyobaa",
-            "expiration": "25-09-2024 16:48",
-            "host": "id1",
-            "label": "Non-STB"
         }
     ]
 }
