@@ -47,7 +47,7 @@
         {
             "vpn_type": "ssh",
             "username": "aosn",
-            "expired": "04-10-2024 21:31",
+            "expired": "10-10-2024 21:31",
             "host": "id1",
             "label": "Non-STB"
         }
