@@ -35,42 +35,5 @@
             "host": "id1",
             "label": "Non-STB"
         }
-    ],
-    "6353236171": [
-        {
-            "vpn_type": "ssh",
-            "username": "aksjs",
-            "expired": "04-10-2024 21:32",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "aosn",
-            "expired": "10-10-2024 21:31",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "aoso",
-            "expired": "28-09-2024 21:35",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "alsjdh",
-            "expired": "03-10-2024 21:42",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "wosjs",
-            "expired": "27-09-2024 21:44",
-            "host": "id1",
-            "label": "STB"
-        }
     ]
 }
