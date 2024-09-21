@@ -40,7 +40,7 @@
         {
             "vpn_type": "ssh",
             "username": "aksjs",
-            "expired": "01-10-2024 21:22",
+            "expired": "04-10-2024 21:32",
             "host": "id1",
             "label": "STB"
         },
