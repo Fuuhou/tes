@@ -23,5 +23,14 @@
             "host": "id1",
             "label": "STB"
         }
+    ],
+    "6482164189": [
+        {
+            "vpn_type": "vmessws",
+            "username": "freedznteam",
+            "expiration": "27-09-2024 21:02",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
     ]
 }
