@@ -64,6 +64,13 @@
             "expired": "03-10-2024 21:42",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "wosjs",
+            "expired": "24-09-2024 21:43",
+            "host": "id1",
+            "label": "STB"
         }
     ]
 }
