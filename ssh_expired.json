@@ -6,34 +6,6 @@
             "expired": "02-10-2024 04:43",
             "host": "id1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "fiony",
-            "expired": "29-09-2024 04:45",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "paul",
-            "expired": "26-09-2024 04:48",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "haloo",
-            "expired": "02-10-2024 04:57",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "gopekkok",
-            "expired": "09-10-2024 05:41",
-            "host": "id1",
-            "label": "Non-STB"
         }
     ]
 }
