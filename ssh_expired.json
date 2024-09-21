@@ -43,6 +43,13 @@
             "expired": "01-10-2024 21:22",
             "host": "id1",
             "label": "STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "aosn",
+            "expired": "28-09-2024 21:30",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
