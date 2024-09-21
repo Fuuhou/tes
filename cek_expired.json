@@ -1,20 +1,4 @@
 {
-    "6353236171": [
-        {
-            "vpn_type": "vlessws",
-            "username": "xixi",
-            "expiration": "25-09-2024 01:24",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "ahsjs",
-            "expiration": "27-09-2024 21:20",
-            "host": "id1",
-            "label": "STB"
-        }
-    ],
     "6270543236": [
         {
             "vpn_type": "vmessws",
