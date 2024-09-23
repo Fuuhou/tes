@@ -6,6 +6,13 @@
             "expiration": "25-09-2024 16:48",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Annisa",
+            "expiration": "23-10-2024 21:20",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6482164189": [
