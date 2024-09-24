@@ -10,13 +10,13 @@
             "nama_profil": "zoy",
             "file_id": "AgACAgUAAxkDAAIKiGbrg525V-RDXCAYlxO1CC2roqp2AAIqwDEbGtpJV63NuZ8AAfbLrwEAAwIAA3gAAzYE",
             "media_type": "photo",
-            "main": true
+            "main": false
         },
         {
             "nama_profil": "freyy",
             "file_id": "AgACAgUAAxkBAAIL12bto5zNYDLt0mdBE6--fBbR-vplAALZvDEbneVoV8uWdIGle49zAQADAgADeQADNgQ",
             "media_type": "photo",
-            "main": false
+            "main": true
         }
     ],
     "6353236171": [
