@@ -41,6 +41,13 @@
             "expiration": "28-10-2024 00:29",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Jajang",
+            "expiration": "28-10-2024 12:46",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
