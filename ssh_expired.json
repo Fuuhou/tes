@@ -36,6 +36,13 @@
             "expired": "30-09-2024 12:49",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "dila",
+            "expired": "29-10-2024 10:45",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
