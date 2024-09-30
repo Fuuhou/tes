@@ -62,6 +62,13 @@
             "expiration": "30-10-2024 09:26",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "hmbng",
+            "expiration": "30-10-2024 21:01",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
