@@ -55,6 +55,13 @@
             "expiration": "29-10-2024 21:48",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Zafran",
+            "expiration": "30-10-2024 09:26",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ]
 }
