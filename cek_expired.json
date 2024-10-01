@@ -83,6 +83,13 @@
             "expiration": "01-11-2024 06:08",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Azkia",
+            "expiration": "01-11-2024 06:09",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
