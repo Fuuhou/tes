@@ -105,5 +105,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "678734215": [
+        {
+            "vpn_type": "vmessws",
+            "username": "mun",
+            "expiration": "02-11-2024 19:07",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
     ]
 }
