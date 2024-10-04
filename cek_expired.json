@@ -104,6 +104,13 @@
             "expiration": "02-11-2024 00:51",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Celat",
+            "expiration": "03-11-2024 18:39",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
