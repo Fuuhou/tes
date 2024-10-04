@@ -50,6 +50,13 @@
             "expired": "09-10-2024 12:08",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "mustakim",
+            "expired": "03-11-2024 07:23",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
