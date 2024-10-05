@@ -118,6 +118,13 @@
             "expiration": "03-11-2024 21:28",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Silit",
+            "expiration": "04-11-2024 07:02",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
