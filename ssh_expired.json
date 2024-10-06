@@ -70,7 +70,7 @@
         {
             "vpn_type": "ssh",
             "username": "hommm",
-            "expired": "6-10-2024 17:30",
+            "expired": "6-10-2024 17:32",
             "host": "id1",
             "label": "Non-STB"
         }
