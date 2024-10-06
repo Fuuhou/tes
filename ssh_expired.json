@@ -64,6 +64,13 @@
             "expired": "23-10-2024 23:47",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "rapli",
+            "expired": "18-10-2024 21:07",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ]
 }
