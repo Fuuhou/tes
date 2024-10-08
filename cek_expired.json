@@ -132,6 +132,13 @@
             "expiration": "05-11-2024 12:53",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "agtstore",
+            "expiration": "07-11-2024 10:55",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
