@@ -79,5 +79,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "6353236171": [
+        {
+            "vpn_type": "ssh",
+            "username": "hayyuu",
+            "expired": "17-10-2024 05:49",
+            "host": "id1",
+            "label": "STB"
+        }
     ]
 }
