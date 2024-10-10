@@ -164,6 +164,13 @@
             "expiration": "17-10-2024 05:21",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "haooo",
+            "expiration": "17-10-2024 05:31",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
