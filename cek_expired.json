@@ -156,5 +156,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "6353236171": [
+        {
+            "vpn_type": "vlessws",
+            "username": "hajsj",
+            "expiration": "17-10-2024 05:21",
+            "host": "id1",
+            "label": "Non-STB"
+        }
     ]
 }
