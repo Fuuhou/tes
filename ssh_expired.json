@@ -101,6 +101,13 @@
             "expired": "17-10-2024 06:01",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "hiofyuu",
+            "expired": "17-10-2024 16:06",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
