@@ -86,49 +86,5 @@
             "host": "sg1",
             "label": "Non-STB"
         }
-    ],
-    "6353236171": [
-        {
-            "vpn_type": "ssh",
-            "username": "hayyuu",
-            "expired": "18-10-2024 14:27",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "haruhfyuu",
-            "expired": "14-10-2024 05:57",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "haruoofyuu",
-            "expired": "17-10-2024 06:01",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "hiofyuu",
-            "expired": "17-10-2024 16:06",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "hrrfyuu",
-            "expired": "17-10-2024 17:42",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "hrrqquu",
-            "expired": "30-10-2024 14:15",
-            "host": "id1",
-            "label": "Non-STB"
-        }
     ]
 }
