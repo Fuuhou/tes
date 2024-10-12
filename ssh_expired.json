@@ -34,6 +34,13 @@
             "expired": "04-11-2024 11:47",
             "host": "id1",
             "label": "STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "rifan",
+            "expired": "11-11-2024 09:59",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "1171149707": [
