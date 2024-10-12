@@ -206,6 +206,13 @@
             "expiration": "17-10-2024 05:48",
             "host": "id1",
             "label": "STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "hrrqquu",
+            "expiration": "18-10-2024 14:12",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
