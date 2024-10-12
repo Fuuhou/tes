@@ -178,6 +178,13 @@
             "expiration": "15-10-2024 15:05",
             "host": "id1",
             "label": "STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "cobakoja",
+            "expiration": "15-10-2024 15:11",
+            "host": "id1",
+            "label": "STB"
         }
     ]
 }
