@@ -146,6 +146,13 @@
             "expiration": "08-11-2024 20:50",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Faqih",
+            "expiration": "11-11-2024 14:05",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
