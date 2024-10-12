@@ -187,5 +187,14 @@
             "label": "STB",
             "expired": "15-10-2024 15:12"
         }
+    ],
+    "2145066786": [
+        {
+            "vpn_type": "vmessws",
+            "username": "viaa",
+            "expiration": "11-11-2024 17:01",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
     ]
 }
