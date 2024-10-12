@@ -1,0 +1,20 @@
+{
+    "servers": {
+        "id1": {
+            "STB": {
+                "price": 3
+            },
+            "Non-STB": {
+                "price": 6
+            }
+        },
+        "sg1": {
+            "STB": {
+                "price": 3
+            },
+            "Non-STB": {
+                "price": 6
+            }
+        }
+    }
+}
