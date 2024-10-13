@@ -171,37 +171,6 @@
             "label": "Non-STB"
         }
     ],
-    "6353236171": [
-        {
-            "vpn_type": "vlessws",
-            "username": "cobaaja",
-            "expiration": "18-10-2024 15:04",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
-            "username": "cobaoja",
-            "expiration": "15-10-2024 15:05",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
-            "vpn_type": "vlessws",
-            "username": "cobakoja",
-            "expiration": "15-10-2024 15:11",
-            "host": "id1",
-            "label": "STB",
-            "expired": "15-10-2024 15:12"
-        },
-        {
-            "vpn_type": "vlessws",
-            "username": "noona",
-            "expiration": "18-10-2024 18:21",
-            "host": "id1",
-            "label": "Non-STB"
-        }
-    ],
     "2145066786": [
         {
             "vpn_type": "vmessws",
