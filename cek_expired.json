@@ -209,6 +209,13 @@
             "expiration": "11-11-2024 17:01",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "ida1",
+            "expiration": "12-11-2024 16:04",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ]
 }
