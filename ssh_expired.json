@@ -36,7 +36,7 @@
             "label": "STB"
         },
         {
-        "vpn_type": "ssh",
+            "vpn_type": "ssh",
             "username": "panda",
             "expired": "11-11-2024 01:30",
             "host": "sg1",
