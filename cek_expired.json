@@ -160,6 +160,13 @@
             "expiration": "12-11-2024 08:24",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Desii",
+            "expiration": "13-11-2024 17:59",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
