@@ -36,6 +36,13 @@
             "label": "STB"
         },
         {
+        "vpn_type": "ssh",
+            "username": "panda",
+            "expired": "11-11-2024 01:30",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
             "vpn_type": "ssh",
             "username": "rifan",
             "expired": "11-11-2024 09:59",
