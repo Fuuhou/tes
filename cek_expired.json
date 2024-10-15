@@ -192,6 +192,13 @@
             "expiration": "12-11-2024 16:04",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "lutfi1",
+            "expiration": "14-11-2024 19:42",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ]
 }
