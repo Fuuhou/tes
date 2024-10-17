@@ -12,7 +12,8 @@
             "username": "Sentii",
             "expiration": "19-10-2024 23:10",
             "host": "id1",
-            "label": "STB"
+            "label": "STB",
+            "expired": "16-12-2024 19:09"
         },
         {
             "vpn_type": "vmessws",
