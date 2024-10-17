@@ -3,9 +3,16 @@
         {
             "vpn_type": "vmessws",
             "username": "Annisa",
-            "expiration": "23-10-2024 21:20",
+            "expiration": "19-10-2024 21:20",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "Sentii",
+            "expiration": "19-10-2024 23:10",
+            "host": "id1",
+            "label": "STB"
         },
         {
             "vpn_type": "vmessws",
