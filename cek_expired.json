@@ -9,6 +9,13 @@
         },
         {
             "vpn_type": "vmessws",
+            "username": "Ardi",
+            "expiration": "17-10-2024 20:33",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
             "username": "Rizzki",
             "expiration": "24-10-2024 06:35",
             "host": "id1",
