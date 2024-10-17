@@ -12,7 +12,8 @@
             "username": "Ardi",
             "expiration": "17-10-2024 20:33",
             "host": "sg1",
-            "label": "Non-STB"
+            "label": "Non-STB",
+            "expired": "16-11-2024 09:48"
         },
         {
             "vpn_type": "vmessws",
