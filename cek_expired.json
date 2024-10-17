@@ -190,6 +190,13 @@
             "expiration": "16-11-2024 07:49",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Bebebev",
+            "expiration": "16-11-2024 19:17",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
