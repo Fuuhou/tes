@@ -3,190 +3,189 @@
         {
             "vpn_type": "vmessws",
             "username": "Annisa",
-            "expiration": "19-10-2024 21:20",
+            "expired": "19-10-2024 21:20",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vlessws",
             "username": "Sentii",
-            "expiration": "19-10-2024 23:10",
+            "expired": "16-12-2024 23:10",
             "host": "id1",
-            "label": "STB",
-            "expired": "16-12-2024 19:09"
+            "label": "STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Rizzki",
-            "expiration": "24-10-2024 06:35",
+            "expired": "24-10-2024 06:35",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Rizzki",
-            "expiration": "24-10-2024 06:36",
+            "expired": "24-10-2024 06:36",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Guspar",
-            "expiration": "24-10-2024 18:56",
+            "expired": "24-10-2024 18:56",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Jati",
-            "expiration": "27-10-2024 10:58",
+            "expired": "27-10-2024 10:58",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Aziz",
-            "expiration": "28-10-2024 00:29",
+            "expired": "28-10-2024 00:29",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Jajang",
-            "expiration": "28-10-2024 12:46",
+            "expired": "28-10-2024 12:46",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Harvis",
-            "expiration": "29-10-2024 21:48",
+            "expired": "29-10-2024 21:48",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Zafran",
-            "expiration": "30-10-2024 09:26",
+            "expired": "30-10-2024 09:26",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "hmbng",
-            "expiration": "30-10-2024 21:01",
+            "expired": "30-10-2024 21:01",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Budak",
-            "expiration": "31-10-2024 21:29",
+            "expired": "31-10-2024 21:29",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Xriu",
-            "expiration": "01-11-2024 06:08",
+            "expired": "01-11-2024 06:08",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Azkia",
-            "expiration": "01-11-2024 06:09",
+            "expired": "01-11-2024 06:09",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Isti",
-            "expiration": "01-11-2024 06:09",
+            "expired": "01-11-2024 06:09",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Heri",
-            "expiration": "02-11-2024 00:51",
+            "expired": "02-11-2024 00:51",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Celat",
-            "expiration": "03-11-2024 18:39",
+            "expired": "03-11-2024 18:39",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "trojanws",
             "username": "Minari",
-            "expiration": "03-11-2024 21:28",
+            "expired": "03-11-2024 21:28",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Silit",
-            "expiration": "04-11-2024 07:02",
+            "expired": "04-11-2024 07:02",
             "host": "id1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Sarah",
-            "expiration": "05-11-2024 12:53",
+            "expired": "05-11-2024 12:53",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "agtstore",
-            "expiration": "07-11-2024 10:55",
+            "expired": "07-11-2024 10:55",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "ysgdhs",
-            "expiration": "08-11-2024 20:50",
+            "expired": "08-11-2024 20:50",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Faqih",
-            "expiration": "11-11-2024 14:05",
+            "expired": "11-11-2024 14:05",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Tomie",
-            "expiration": "12-11-2024 08:24",
+            "expired": "12-11-2024 08:24",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Desii",
-            "expiration": "13-11-2024 17:59",
+            "expired": "13-11-2024 17:59",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Ojak",
-            "expiration": "16-11-2024 07:49",
+            "expired": "16-11-2024 07:49",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "Bebebev",
-            "expiration": "16-11-2024 19:17",
+            "expired": "16-11-2024 19:17",
             "host": "id1",
             "label": "Non-STB"
         }
@@ -195,7 +194,7 @@
         {
             "vpn_type": "vmessws",
             "username": "mun",
-            "expiration": "02-11-2024 19:07",
+            "expired": "02-11-2024 19:07",
             "host": "sg1",
             "label": "Non-STB"
         }
@@ -204,21 +203,21 @@
         {
             "vpn_type": "vmessws",
             "username": "viaa",
-            "expiration": "11-11-2024 17:01",
+            "expired": "11-11-2024 17:01",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "ida1",
-            "expiration": "12-11-2024 16:04",
+            "expired": "12-11-2024 16:04",
             "host": "sg1",
             "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
             "username": "lutfi1",
-            "expiration": "14-11-2024 19:42",
+            "expired": "14-11-2024 19:42",
             "host": "sg1",
             "label": "Non-STB"
         }
@@ -227,7 +226,7 @@
         {
             "vpn_type": "vmessws",
             "username": "kijang",
-            "expiration": "28-10-2024 21:25",
+            "expired": "28-10-2024 21:25",
             "host": "id1",
             "label": "Non-STB"
         }
