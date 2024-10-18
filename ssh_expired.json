@@ -81,13 +81,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "rapli",
-            "expired": "18-10-2024 21:07",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "Umar",
             "expired": "08-11-2024 18:51",
             "host": "sg1",
