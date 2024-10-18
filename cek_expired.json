@@ -8,6 +8,13 @@
             "label": "Non-STB"
         },
         {
+            "vpn_type": "vmessws",
+            "username": "Bebebev",
+            "expired": "16-11-2024 15:33",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
             "vpn_type": "vlessws",
             "username": "Sentii",
             "expired": "16-12-2024 23:10",
