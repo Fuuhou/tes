@@ -2,13 +2,6 @@
     "6270543236": [
         {
             "vpn_type": "vmessws",
-            "username": "Annisa",
-            "expired": "19-10-2024 21:20",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Bebebev",
             "expired": "16-11-2024 15:33",
             "host": "sg1",
