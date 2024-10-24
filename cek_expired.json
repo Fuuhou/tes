@@ -209,6 +209,13 @@
             "expired": "23-11-2024 07:26",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "RZKI2410SG",
+            "expired": "23-11-2024 07:28",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
