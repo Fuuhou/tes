@@ -255,6 +255,13 @@
             "expired": "23-11-2024 19:15",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "giyatman",
+            "expired": "26-11-2024 18:29",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "1285536317": [
