@@ -255,6 +255,13 @@
             "expired": "26-11-2024 18:29",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "untung",
+            "expired": "29-11-2024 00:20",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "1285536317": [
