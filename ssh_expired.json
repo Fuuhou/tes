@@ -3,7 +3,7 @@
         {
             "vpn_type": "ssh",
             "username": "yuz",
-            "expired": "29-10-2024 01:30",
+            "expired": "26-11-2024 01:30",
             "host": "sg1",
             "label": "Non-STB"
         },
