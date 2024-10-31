@@ -30,13 +30,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "Harvis",
-            "expired": "29-10-2024 21:48",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Xriu",
             "expired": "01-11-2024 06:08",
             "host": "id1",
