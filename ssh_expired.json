@@ -9,13 +9,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "paidi",
-            "expired": "29-10-2024 10:01",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "agam",
             "expired": "29-10-2024 21:38",
             "host": "sg1",
