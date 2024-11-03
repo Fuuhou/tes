@@ -399,7 +399,7 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "audh",
+            "username": "auh",
             "expired": "06-11-2024 08:40",
             "host": "id1",
             "label": "STB"
