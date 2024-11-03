@@ -85,13 +85,6 @@
             "label": "STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "Celat",
-            "expired": "03-11-2024 18:39",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "trojanws",
             "username": "Minari",
             "expired": "03-11-2024 21:28",
