@@ -396,13 +396,6 @@
             "expired": "06-11-2024 08:05",
             "host": "id1",
             "label": "STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "audh",
-            "expired": "03-11-2024 16:01",
-            "host": "id1",
-            "label": "STB"
         }
     ]
 }
