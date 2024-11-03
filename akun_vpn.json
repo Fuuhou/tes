@@ -16,13 +16,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "iwan",
-            "expired": "02-11-2024 16:55",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "dukee",
             "expired": "04-11-2024 11:47",
             "host": "id1",
@@ -90,13 +83,6 @@
             "expired": "16-12-2024 23:10",
             "host": "id1",
             "label": "STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "Heri",
-            "expired": "02-11-2024 00:51",
-            "host": "sg1",
-            "label": "Non-STB"
         },
         {
             "vpn_type": "vmessws",
@@ -270,13 +256,6 @@
     "678734215": [
         {
             "vpn_type": "vmessws",
-            "username": "mun",
-            "expired": "02-11-2024 19:07",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "tes",
             "expired": "26-11-2024 10:32",
             "host": "sg1",
@@ -351,13 +330,6 @@
     "1285536317": [
         {
             "vpn_type": "vmessws",
-            "username": "kijang",
-            "expired": "28-10-2024 21:25",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "kijang2",
             "expired": "10-11-2024 07:00",
             "host": "id1",
@@ -374,20 +346,6 @@
         }
     ],
     "1171149707": [
-        {
-            "vpn_type": "ssh",
-            "username": "dila",
-            "expired": "29-10-2024 10:45",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "mustakim",
-            "expired": "03-11-2024 07:23",
-            "host": "id1",
-            "label": "Non-STB"
-        },
         {
             "vpn_type": "ssh",
             "username": "Umar",
