@@ -85,13 +85,6 @@
             "label": "STB"
         },
         {
-            "vpn_type": "trojanws",
-            "username": "Minari",
-            "expired": "03-11-2024 21:28",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vmessws",
             "username": "Silit",
             "expired": "04-11-2024 07:02",
