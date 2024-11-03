@@ -336,6 +336,13 @@
             "expired": "13-11-2024 23:02",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "agus",
+            "expired": "09-11-2024 19:54",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "1171149707": [
