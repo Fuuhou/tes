@@ -223,6 +223,13 @@
             "expired": "01-12-2024 20:50",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "pepy",
+            "expired": "04-12-2024 12:41",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
