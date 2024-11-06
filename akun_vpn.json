@@ -237,6 +237,13 @@
             "expired": "04-12-2024 13:59",
             "host": "id1",
             "label": "STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Laut",
+            "expired": "06-12-2024 09:57",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
