@@ -86,13 +86,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "agtstore",
-            "expired": "07-11-2024 10:55",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "ysgdhs",
             "expired": "08-11-2024 20:50",
             "host": "sg1",
