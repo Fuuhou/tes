@@ -237,6 +237,13 @@
             "expired": "06-12-2024 09:57",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Fresti",
+            "expired": "08-12-2024 20:46",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
