@@ -1,51 +1,7 @@
 {
-    "6270543236": {
-        "coins": 759157,
-        "join_date": "19-09-2099",
-        "coins_usage": 245
-    },
-    "6795597591": {
-        "coins": 999999999,
-        "join_date": "19-09-2099"
-    },
-    "6353236171": {
-        "coins": 9955,
-        "join_date": "19-09-2099",
-        "coins_usage": 48
-    },
-    "6482164189": {
-        "coins": 7,
-        "join_date": "21-09-2024",
-        "coins_usage": 1
-    },
-    "1285536317": {
-        "coins": 3,
-        "join_date": "22-09-2024",
-        "coins_usage": 4
-    },
-    "1171149707": {
-        "coins": 50,
-        "join_date": "24-09-2024",
-        "coins_usage": 53
-    },
-    "678734215": {
-        "coins": 0,
-        "join_date": "03-10-2024",
-        "coins_usage": 10
-    },
-    "2145066786": {
-        "coins": 0,
-        "join_date": "12-10-2024",
-        "coins_usage": 55
-    },
     "5076779269": {
-        "coins": 14,
+        "coins": 13,
         "join_date": "31-10-2024",
-        "coins_usage": 3
-    },
-    "7213801789": {
-        "coins": 0,
-        "join_date": "09-11-2024",
-        "coins_usage": 6
+        "coins_usage": 4
     }
 }
