@@ -44,7 +44,8 @@
         "coins_usage": 3
     },
     "7213801789": {
-        "coins": 6,
-        "join_date": "09-11-2024"
+        "coins": 5,
+        "join_date": "09-11-2024",
+        "coins_usage": 1
     }
 }
