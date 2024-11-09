@@ -388,5 +388,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "7213801789": [
+        {
+            "vpn_type": "vlessws",
+            "username": "toya",
+            "expired": "15-11-2024 14:44",
+            "host": "id1",
+            "label": "Non-STB"
+        }
     ]
 }
