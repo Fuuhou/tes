@@ -404,5 +404,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "6353236171": [
+        {
+            "vpn_type": "vlessws",
+            "username": "Yona",
+            "expired": "12-11-2024 22:03",
+            "host": "id1",
+            "label": "STB"
+        }
     ]
 }
