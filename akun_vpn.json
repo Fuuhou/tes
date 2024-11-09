@@ -340,7 +340,7 @@
         {
             "vpn_type": "ssh",
             "username": "agus",
-            "expired": "09-11-2024 19:54",
+            "expired": "16-11-2024 19:54",
             "host": "id1",
             "label": "Non-STB"
         }
