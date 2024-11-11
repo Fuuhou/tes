@@ -390,5 +390,14 @@
             "host": "id1",
             "label": "Non-STB"
         }
+    ],
+    "6975086445": [
+        {
+            "vpn_type": "vmessws",
+            "username": "Faqih",
+            "expired": "11-12-2024 18:16",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
     ]
 }
