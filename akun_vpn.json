@@ -244,13 +244,6 @@
     "2145066786": [
         {
             "vpn_type": "vmessws",
-            "username": "viaa",
-            "expired": "11-11-2024 17:01",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "ida1",
             "expired": "12-11-2024 16:04",
             "host": "sg1",
