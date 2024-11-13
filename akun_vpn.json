@@ -406,14 +406,5 @@
             "host": "sg1",
             "label": "Non-STB"
         }
-    ],
-    "6353236171": [
-        {
-            "vpn_type": "vlessws",
-            "username": "Gentong",
-            "expired": "13-11-2024 21:33",
-            "host": "id1",
-            "label": "STB"
-        }
     ]
 }
