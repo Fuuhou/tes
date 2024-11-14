@@ -325,13 +325,6 @@
     "1171149707": [
         {
             "vpn_type": "ssh",
-            "username": "gio",
-            "expired": "14-11-2024 17:39",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "nabi",
             "expired": "17-11-2024 17:06",
             "host": "sg1",
