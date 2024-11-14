@@ -216,6 +216,13 @@
             "expired": "11-12-2024 13:39",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Bayuk",
+            "expired": "14-12-2024 17:28",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
