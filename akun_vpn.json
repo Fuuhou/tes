@@ -368,13 +368,6 @@
     ],
     "7213801789": [
         {
-            "vpn_type": "vlessws",
-            "username": "toya",
-            "expired": "15-11-2024 14:44",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vmessws",
             "username": "nova",
             "expired": "09-12-2024 18:34",
