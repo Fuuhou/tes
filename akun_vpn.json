@@ -79,13 +79,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "Ojak",
-            "expired": "16-11-2024 07:49",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Amos",
             "expired": "19-11-2024 18:03",
             "host": "id1",
