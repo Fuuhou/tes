@@ -386,6 +386,13 @@
             "expired": "23-11-2024 12:52",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "freedzn",
+            "expired": "23-11-2024 12:59",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
