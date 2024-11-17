@@ -188,6 +188,13 @@
             "expired": "14-12-2024 17:28",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Ardi",
+            "expired": "17-12-2024 14:16",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "678734215": [
