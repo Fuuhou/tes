@@ -400,6 +400,13 @@
             "expired": "23-11-2024 12:59",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "trojanws",
+            "username": "dznteam",
+            "expired": "08-12-2024 14:22",
+            "host": "id1",
+            "label": "STB"
         }
     ]
 }
