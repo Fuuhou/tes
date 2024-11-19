@@ -8,6 +8,13 @@
             "label": "Non-STB"
         },
         {
+            "vpn_type": "vmessws",
+            "username": "VMES2109",
+            "expired": "20-11-2024 09:20",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
             "vpn_type": "ssh",
             "username": "panda",
             "expired": "11-02-2025 13:40",
