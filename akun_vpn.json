@@ -409,13 +409,6 @@
     ],
     "6482164189": [
         {
-            "vpn_type": "vmessws",
-            "username": "freedzn",
-            "expired": "23-11-2024 12:59",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "trojanws",
             "username": "dznteam",
             "expired": "08-12-2024 14:22",
