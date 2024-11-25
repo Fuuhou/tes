@@ -306,6 +306,13 @@
             "expired": "01-12-2024 08:42",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessgrpc",
+            "username": "ABC",
+            "expired": "01-12-2024 15:07",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "1171149707": [
