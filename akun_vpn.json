@@ -299,6 +299,13 @@
             "expired": "28-11-2024 20:43",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessgrpc",
+            "username": "Aan",
+            "expired": "01-12-2024 08:42",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "1171149707": [
