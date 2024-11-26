@@ -176,15 +176,6 @@
             "label": "Non-STB"
         }
     ],
-    "678734215": [
-        {
-            "vpn_type": "vmessws",
-            "username": "tes",
-            "expired": "26-11-2024 10:32",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "2145066786": [
         {
             "vpn_type": "vmessws",
