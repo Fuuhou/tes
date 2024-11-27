@@ -376,6 +376,13 @@
             "expired": "26-12-2024 13:21",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "fatur",
+            "expired": "27-12-2024 20:05",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "7213801789": [
