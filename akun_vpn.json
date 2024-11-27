@@ -288,13 +288,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "dila",
-            "expired": "27-11-2024 21:58",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "sahril",
             "expired": "30-11-2024 12:40",
             "host": "sg1",
