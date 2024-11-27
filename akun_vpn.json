@@ -177,13 +177,6 @@
         },
         {
             "vpn_type": "trojanws",
-            "username": "pahri",
-            "expired": "27-12-2024 18:42",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "trojanws",
             "username": "pahrii",
             "expired": "27-12-2024 19:31",
             "host": "sg1",
