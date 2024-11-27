@@ -285,13 +285,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vmessgrpc",
-            "username": "Aan",
-            "expired": "01-12-2024 08:42",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessgrpc",
             "username": "ABC",
             "expired": "01-12-2024 15:07",
