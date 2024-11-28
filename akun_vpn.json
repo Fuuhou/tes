@@ -348,6 +348,13 @@
             "expired": "27-12-2024 20:05",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "inggo",
+            "expired": "04-12-2024 19:14",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "7213801789": [
