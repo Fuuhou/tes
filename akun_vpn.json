@@ -411,5 +411,14 @@
             "host": "id1",
             "label": "STB"
         }
+    ],
+    "1285536317": [
+        {
+            "vpn_type": "vmessws",
+            "username": "kijang",
+            "expired": "28-12-2024 14:08",
+            "host": "id1",
+            "label": "Non-STB"
+        }
     ]
 }
