@@ -403,15 +403,6 @@
             "label": "Non-STB"
         }
     ],
-    "1285536317": [
-        {
-            "vpn_type": "vmessws",
-            "username": "kijang",
-            "expired": "28-11-2024 10:41",
-            "host": "id1",
-            "label": "Non-STB"
-        }
-    ],
     "6482164189": [
         {
             "vpn_type": "trojanws",
