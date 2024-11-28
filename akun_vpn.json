@@ -394,6 +394,13 @@
             "expired": "05-12-2024 12:53",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "AlekID",
+            "expired": "04-12-2024 08:07",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "1285536317": [
