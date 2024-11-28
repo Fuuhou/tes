@@ -179,13 +179,6 @@
     "2145066786": [
         {
             "vpn_type": "vmessws",
-            "username": "untung",
-            "expired": "29-11-2024 00:20",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "azizp",
             "expired": "29-12-2024 18:21",
             "host": "sg1",
