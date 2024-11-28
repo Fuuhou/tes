@@ -269,13 +269,6 @@
             "expired": "18-12-2024 08:55",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "trojanws",
-            "username": "Andi",
-            "expired": "28-11-2024 20:43",
-            "host": "id1",
-            "label": "Non-STB"
         }
     ],
     "1171149707": [
