@@ -413,5 +413,14 @@
             "host": "id1",
             "label": "Non-STB"
         }
+    ],
+    "6353236171": [
+        {
+            "vpn_type": "vlessws",
+            "username": "panjul",
+            "expired": "05-12-2024 16:02",
+            "host": "id1",
+            "label": "Non-STB"
+        }
     ]
 }
