@@ -246,6 +246,13 @@
             "expired": "24-12-2024 12:40",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "zafran",
+            "expired": "29-12-2024 18:51",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "5076779269": [
