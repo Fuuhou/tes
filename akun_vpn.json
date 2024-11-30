@@ -419,6 +419,13 @@
             "expired": "28-12-2024 14:08",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "ipan",
+            "expired": "30-12-2024 12:09",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6353236171": [
