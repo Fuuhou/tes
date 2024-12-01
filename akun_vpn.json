@@ -167,6 +167,13 @@
             "expired": "30-12-2024 17:26",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "yuz",
+            "expired": "31-12-2024 07:58",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
