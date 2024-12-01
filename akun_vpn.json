@@ -50,13 +50,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "Xriu",
-            "expired": "01-12-2024 12:11",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "Lucianoo",
             "expired": "31-12-2024 12:17",
