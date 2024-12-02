@@ -248,6 +248,13 @@
             "expired": "18-12-2024 08:55",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Tiara",
+            "expired": "26-12-2024 09:23",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "1171149707": [
