@@ -435,13 +435,6 @@
             "expired": "05-12-2024 16:02",
             "host": "id1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
-            "username": "panjul3",
-            "expired": "02-12-2024 16:03",
-            "host": "id1",
-            "label": "STB"
         }
     ]
 }
