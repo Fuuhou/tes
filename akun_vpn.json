@@ -160,6 +160,13 @@
             "expired": "01-02-2025 11:27",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "Moon",
+            "expired": "05-01-2025 09:44",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
