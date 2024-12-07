@@ -167,6 +167,13 @@
             "expired": "06-01-2025 13:42",
             "host": "sg1",
             "label": "STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "silid",
+            "expired": "06-01-2025 18:18",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
