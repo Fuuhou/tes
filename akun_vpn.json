@@ -392,15 +392,6 @@
             "label": "Non-STB"
         }
     ],
-    "7213801789": [
-        {
-            "vpn_type": "vmessws",
-            "username": "Dian",
-            "expired": "12-12-2024 10:39",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "6975086445": [
         {
             "vpn_type": "vmessws",
