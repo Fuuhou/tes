@@ -228,13 +228,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "haikal",
-            "expired": "12-12-2024 16:29",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "via",
             "expired": "12-12-2024 18:57",
             "host": "sg1",
