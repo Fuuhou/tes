@@ -288,6 +288,13 @@
             "expired": "11-01-2025 17:38",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "viaa",
+            "expired": "11-01-2025 19:24",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "5076779269": [
