@@ -1,4 +1,4 @@
 {
-    "id1": "id.demonking.shop",
-    "sg1": "sg.demonking.shop"
+    "id1": "http://id.demonking.shop:5069/",
+    "sg1": "http://sg.demonking.shop:5069/"
 }
