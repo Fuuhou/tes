@@ -460,5 +460,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "6353236171": [
+        {
+            "vpn_type": "trojanws",
+            "username": "cfasu",
+            "expired": "17-12-2024 16:24",
+            "host": "id1",
+            "label": "STB"
+        }
     ]
 }
