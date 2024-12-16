@@ -383,13 +383,6 @@
             "expired": "03-01-2025 07:47",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "ilham",
-            "expired": "16-12-2024 19:44",
-            "host": "id1",
-            "label": "Non-STB"
         }
     ],
     "6975086445": [
