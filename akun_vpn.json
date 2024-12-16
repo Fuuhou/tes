@@ -24,7 +24,7 @@
         {
             "vpn_type": "vlessws",
             "username": "Sentii",
-            "expired": "14-02-2025 23:10",
+            "expired": "16-02-2025 23:10",
             "host": "id1",
             "label": "STB"
         },
@@ -438,15 +438,6 @@
             "expired": "30-12-2024 12:09",
             "host": "sg1",
             "label": "Non-STB"
-        }
-    ],
-    "6353236171": [
-        {
-            "vpn_type": "trojanws",
-            "username": "cfasu",
-            "expired": "13-01-2025 16:24",
-            "host": "id1",
-            "label": "STB"
         }
     ]
 }
