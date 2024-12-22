@@ -29,13 +29,6 @@
             "label": "STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "Yann",
-            "expired": "22-12-2024 12:08",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "Lucianoo",
             "expired": "31-12-2024 12:17",
