@@ -71,13 +71,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "RIZKI2311SG",
-            "expired": "23-12-2024 10:27",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "trojanws",
             "username": "pahrii",
             "expired": "27-12-2024 19:31",
