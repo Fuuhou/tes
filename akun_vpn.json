@@ -427,5 +427,14 @@
             "host": "id1",
             "label": "STB"
         }
+    ],
+    "7213801789": [
+        {
+            "vpn_type": "vlessws",
+            "username": "yogun",
+            "expired": "24-01-2025 01:54",
+            "host": "id1",
+            "label": "Non-STB"
+        }
     ]
 }
