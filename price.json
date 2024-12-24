@@ -2,18 +2,18 @@
     "servers": {
         "id1": {
             "STB": {
-                "price": 335
+                "price": 333
             },
             "Non-STB": {
-                "price": 170
+                "price": 166
             }
         },
         "sg1": {
             "STB": {
-                "price": 335
+                "price": 333
             },
             "Non-STB": {
-                "price": 170
+                "price": 166
             }
         }
     }
