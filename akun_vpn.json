@@ -415,13 +415,6 @@
     "6353236171": [
         {
             "vpn_type": "vlessws",
-            "username": "ganjacoy1",
-            "expired": "25-12-2024 06:43",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
             "username": "ganjacox",
             "expired": "26-12-2024 07:23",
             "host": "id1",
