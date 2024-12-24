@@ -1,56 +1,56 @@
 {
     "6270543236": {
-        "credit": 9999999999,
+        "coin": 9999999999,
         "join_date": "19-09-2099",
-        "credit_usage": 475000
+        "coin_usage": 475000
     },
     "6795597591": {
-        "credit": 999999999,
+        "coin": 999999999,
         "join_date": "19-09-2099"
     },
     "6353236171": {
-        "credit": 9925330,
+        "coin": 9925330,
         "join_date": "19-09-2099",
-        "credit_usage": 77670
+        "coin_usage": 77670
     },
     "6482164189": {
-        "credit": 0,
+        "coin": 0,
         "join_date": "21-09-2024",
-        "credit_usage": 18000
+        "coin_usage": 18000
     },
     "1285536317": {
-        "credit": 0,
+        "coin": 0,
         "join_date": "22-09-2024",
-        "credit_usage": 17000
+        "coin_usage": 17000
     },
     "1171149707": {
-        "credit": 91000,
+        "coin": 91000,
         "join_date": "24-09-2024",
-        "credit_usage": 127000
+        "coin_usage": 127000
     },
     "678734215": {
-        "credit": 0,
+        "coin": 0,
         "join_date": "03-10-2024",
-        "credit_usage": 10000
+        "coin_usage": 10000
     },
     "2145066786": {
-        "credit": 0,
+        "coin": 0,
         "join_date": "12-10-2024",
-        "credit_usage": 130000
+        "coin_usage": 130000
     },
     "5076779269": {
-        "credit": 10000,
+        "coin": 10000,
         "join_date": "31-10-2024",
-        "credit_usage": 31000
+        "coin_usage": 31000
     },
     "7213801789": {
-        "credit": 0,
+        "coin": 0,
         "join_date": "31-10-2024",
-        "credit_usage": 11000
+        "coin_usage": 11000
     },
     "6975086445": {
-        "credit": 2000,
+        "coin": 2000,
         "join_date": "11-11-2024",
-        "credit_usage": 33000
+        "coin_usage": 33000
     }
 }
