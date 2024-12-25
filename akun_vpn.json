@@ -420,5 +420,14 @@
             "host": "id1",
             "label": "Non-STB"
         }
+    ],
+    "559335306": [
+        {
+            "vpn_type": "vmessws",
+            "username": "miaw",
+            "expired": "24-01-2025 19:33",
+            "host": "id1",
+            "label": "Non-STB"
+        }
     ]
 }
