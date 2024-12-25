@@ -426,6 +426,13 @@
             "expired": "24-01-2025 19:58",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "killua",
+            "expired": "23-02-2025 19:59",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "559335306": [
