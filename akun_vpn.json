@@ -387,15 +387,6 @@
             "label": "Non-STB"
         }
     ],
-    "6482164189": [
-        {
-            "vpn_type": "trojanws",
-            "username": "manok",
-            "expired": "25-12-2024 19:09",
-            "host": "sg1",
-            "label": "STB"
-        }
-    ],
     "1285536317": [
         {
             "vpn_type": "vmessws",
