@@ -396,15 +396,6 @@
             "label": "Non-STB"
         }
     ],
-    "6353236171": [
-        {
-            "vpn_type": "vlessws",
-            "username": "ganjacox",
-            "expired": "26-12-2024 07:23",
-            "host": "id1",
-            "label": "STB"
-        }
-    ],
     "7213801789": [
         {
             "vpn_type": "vlessws",
