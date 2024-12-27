@@ -302,13 +302,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "fatur",
-            "expired": "27-12-2024 20:05",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "sahril",
             "expired": "30-12-2024 15:00",
             "host": "sg1",
