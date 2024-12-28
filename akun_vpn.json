@@ -195,6 +195,13 @@
             "expired": "07-01-2025 11:59",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "RIZKI2812SG",
+            "expired": "27-01-2025 09:21",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
