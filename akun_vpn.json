@@ -288,6 +288,13 @@
             "expired": "25-01-2025 09:09",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "untung",
+            "expired": "28-01-2025 15:16",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "5076779269": [
