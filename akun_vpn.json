@@ -422,15 +422,6 @@
             "label": "Non-STB"
         }
     ],
-    "1285536317": [
-        {
-            "vpn_type": "vmessws",
-            "username": "ipan",
-            "expired": "30-12-2024 12:09",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "7213801789": [
         {
             "vpn_type": "vlessws",
