@@ -195,6 +195,13 @@
             "expired": "29-01-2025 15:29",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "paidi",
+            "expired": "30-01-2025 08:44",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
