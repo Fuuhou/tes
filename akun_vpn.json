@@ -43,20 +43,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "Azkia",
-            "expired": "31-12-2024 16:22",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "Isti",
-            "expired": "31-12-2024 16:22",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "ssh",
             "username": "dukee",
             "expired": "04-01-2025 13:59",
