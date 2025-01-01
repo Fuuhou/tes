@@ -195,6 +195,13 @@
             "expired": "31-01-2025 11:14",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "Setya",
+            "expired": "31-01-2025 15:26",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
