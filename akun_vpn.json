@@ -200,13 +200,6 @@
     "2145066786": [
         {
             "vpn_type": "vmessws",
-            "username": "celat",
-            "expired": "02-01-2025 20:19",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "suci",
             "expired": "06-01-2025 20:22",
             "host": "id1",
