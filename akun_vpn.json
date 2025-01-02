@@ -366,7 +366,7 @@
         {
             "vpn_type": "ssh",
             "username": "takim",
-            "expired": "05-01-2025 08:50",
+            "expired": "08-01-2025 08:50",
             "host": "sg1",
             "label": "Non-STB"
         }
