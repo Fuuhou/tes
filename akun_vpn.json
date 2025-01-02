@@ -288,13 +288,6 @@
     "1171149707": [
         {
             "vpn_type": "ssh",
-            "username": "apin",
-            "expired": "02-01-2025 11:45",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "rapli",
             "expired": "03-01-2025 07:47",
             "host": "sg1",
