@@ -438,6 +438,13 @@
             "expired": "24-01-2025 19:33",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "miawsg",
+            "expired": "03-02-2025 19:23",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ]
 }
