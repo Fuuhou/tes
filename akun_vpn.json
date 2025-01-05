@@ -64,13 +64,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vlessws",
-            "username": "Moon",
-            "expired": "05-01-2025 09:44",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vmessws",
             "username": "silid",
             "expired": "06-01-2025 18:18",
