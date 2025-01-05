@@ -453,5 +453,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "1285536317": [
+        {
+            "vpn_type": "vlessws",
+            "username": "village",
+            "expired": "04-02-2025 20:46",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
     ]
 }
