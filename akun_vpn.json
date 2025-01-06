@@ -57,13 +57,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "silid",
-            "expired": "06-01-2025 18:18",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "trojanws",
             "username": "Maztut",
             "expired": "08-01-2025 18:22",
