@@ -44,13 +44,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "Fresti",
-            "expired": "07-01-2025 22:38",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Abdul",
             "expired": "01-02-2025 11:27",
             "host": "id1",
