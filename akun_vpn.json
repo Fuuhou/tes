@@ -337,13 +337,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "ida",
-            "expired": "08-01-2025 11:52",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "takim",
             "expired": "30-01-2025 08:50",
             "host": "sg1",
