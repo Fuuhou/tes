@@ -341,6 +341,13 @@
             "expired": "02-02-2025 21:21",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "cupi",
+            "expired": "07-02-2025 20:00",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6975086445": [
