@@ -58,13 +58,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "pcc",
-            "expired": "10-01-2025 06:54",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "rifan",
             "expired": "10-01-2025 15:23",
             "host": "sg1",
