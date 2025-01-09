@@ -397,13 +397,6 @@
         },
         {
             "vpn_type": "vlessws",
-            "username": "pribadi",
-            "expired": "09-01-2025 22:58",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
             "username": "NOVA",
             "expired": "07-02-2025 14:13",
             "host": "sg1",
