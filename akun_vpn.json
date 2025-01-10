@@ -160,6 +160,13 @@
             "expired": "05-02-2025 20:01",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "rifan",
+            "expired": "09-02-2025 15:58",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
