@@ -57,13 +57,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "Raihan",
-            "expired": "11-01-2025 11:57",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "ssh",
             "username": "Fiorentina",
             "expired": "17-01-2025 16:39",
