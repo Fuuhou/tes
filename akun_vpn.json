@@ -167,6 +167,13 @@
             "expired": "10-02-2025 20:20",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "Fresti2",
+            "expired": "10-02-2025 21:14",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
