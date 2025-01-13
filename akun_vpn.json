@@ -246,13 +246,6 @@
             "expired": "13-03-2025 16:34",
             "host": "id1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "lutfi",
-            "expired": "12-02-2025 12:59",
-            "host": "sg1",
-            "label": "Non-STB"
         }
     ],
     "5076779269": [
