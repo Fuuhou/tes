@@ -355,13 +355,6 @@
             "expired": "07-02-2025 20:00",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "wahyu",
-            "expired": "16-01-2025 14:53",
-            "host": "sg1",
-            "label": "Non-STB"
         }
     ],
     "6975086445": [
