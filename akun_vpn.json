@@ -181,13 +181,6 @@
             "expired": "13-02-2025 07:53",
             "host": "id1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "Wahyu",
-            "expired": "13-02-2025 19:35",
-            "host": "id1",
-            "label": "Non-STB"
         }
     ],
     "2145066786": [
