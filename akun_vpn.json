@@ -438,13 +438,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "kontolodon",
-            "expired": "14-01-2025 18:37",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "buyer2",
             "expired": "15-01-2025 00:09",
