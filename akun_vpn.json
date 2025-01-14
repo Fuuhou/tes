@@ -439,13 +439,6 @@
         },
         {
             "vpn_type": "vlessws",
-            "username": "buyer2",
-            "expired": "15-01-2025 00:09",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
             "username": "pribadi",
             "expired": "21-01-2025 22:27",
             "host": "id1",
