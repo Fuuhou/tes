@@ -50,13 +50,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "ssh",
-            "username": "Fiorentina",
-            "expired": "17-01-2025 16:39",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vmessws",
             "username": "Yandi",
             "expired": "22-01-2025 14:34",
