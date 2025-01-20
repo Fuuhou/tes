@@ -483,14 +483,5 @@
             "host": "sg1",
             "label": "Non-STB"
         }
-    ],
-    "394040037": [
-        {
-            "vpn_type": "vmessws",
-            "username": "pandavmessws",
-            "expired": "20-01-2025 21:48",
-            "host": "id1",
-            "label": "Non-STB"
-        }
     ]
 }
