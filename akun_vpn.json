@@ -373,7 +373,7 @@
         {
             "vpn_type": "ssh",
             "username": "server",
-            "expired": "23-01-2025 18:43",
+            "expired": "27-01-2025 18:43",
             "host": "id1",
             "label": "Non-STB"
         },
