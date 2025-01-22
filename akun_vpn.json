@@ -260,13 +260,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "aamiin",
-            "expired": "22-01-2025 18:40",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "ikal",
             "expired": "25-01-2025 17:13",
             "host": "sg1",
