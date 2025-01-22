@@ -457,6 +457,13 @@
             "expired": "22-01-2025 22:27",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "culture",
+            "expired": "24-01-2025 12:06",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "559335306": [
