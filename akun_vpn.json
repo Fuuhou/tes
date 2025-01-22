@@ -8,13 +8,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "ssh",
-            "username": "panda",
-            "expired": "08-03-2025 13:40",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "Sentii",
             "expired": "16-02-2025 23:10",
@@ -487,6 +480,15 @@
             "vpn_type": "vlessws",
             "username": "village",
             "expired": "04-02-2025 20:46",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "394040037": [
+        {
+            "vpn_type": "ssh",
+            "username": "panda",
+            "expired": "08-03-2025 13:40",
             "host": "sg1",
             "label": "Non-STB"
         }
