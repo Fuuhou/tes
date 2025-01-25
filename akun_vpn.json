@@ -471,6 +471,13 @@
             "expired": "23-02-2025 12:06",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "HOK123",
+            "expired": "27-01-2025 11:33",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "559335306": [
