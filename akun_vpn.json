@@ -251,13 +251,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "Tiara",
-            "expired": "25-01-2025 19:32",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Naomi",
             "expired": "26-01-2025 19:01",
             "host": "id1",
@@ -269,13 +262,6 @@
             "vpn_type": "ssh",
             "username": "alisa",
             "expired": "18-02-2025 20:13",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "fatur01",
-            "expired": "26-01-2025 12:08",
             "host": "sg1",
             "label": "Non-STB"
         },
