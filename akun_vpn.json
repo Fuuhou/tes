@@ -156,13 +156,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "wibuvpn",
-            "expired": "26-01-2025 23:48",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "zaini",
             "expired": "23-02-2025 08:21",
             "host": "id1",
