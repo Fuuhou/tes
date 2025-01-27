@@ -432,13 +432,6 @@
     "7213801789": [
         {
             "vpn_type": "vlessws",
-            "username": "pougun",
-            "expired": "27-01-2025 19:58",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
             "username": "NOVA",
             "expired": "07-02-2025 14:13",
             "host": "sg1",
