@@ -160,13 +160,6 @@
             "expired": "26-02-2025 14:48",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "trojanws",
-            "username": "Ciella",
-            "expired": "26-02-2025 18:05",
-            "host": "sg1",
-            "label": "Non-STB"
         }
     ],
     "2145066786": [
