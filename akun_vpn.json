@@ -167,6 +167,13 @@
             "expired": "26-02-2025 18:06",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Maul",
+            "expired": "27-02-2025 06:07",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
