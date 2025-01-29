@@ -390,6 +390,13 @@
             "expired": "26-02-2025 10:57",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "apin",
+            "expired": "01-02-2025 09:16",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "6975086445": [
