@@ -274,13 +274,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "rill",
-            "expired": "30-01-2025 13:50",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "inggo",
             "expired": "02-02-2025 21:21",
             "host": "sg1",
