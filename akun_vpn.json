@@ -51,13 +51,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "yuz",
-            "expired": "31-01-2025 11:14",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "pccc",
             "expired": "04-02-2025 06:05",
             "host": "sg1",
