@@ -153,6 +153,13 @@
             "expired": "02-03-2025 13:04",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "azkia",
+            "expired": "02-03-2025 13:04",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
