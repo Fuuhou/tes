@@ -362,6 +362,13 @@
             "expired": "01-03-2025 18:17",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "umar",
+            "expired": "03-03-2025 15:59",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6975086445": [
