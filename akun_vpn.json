@@ -158,13 +158,6 @@
     "2145066786": [
         {
             "vpn_type": "vmessws",
-            "username": "hery",
-            "expired": "01-02-2025 20:44",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "habib",
             "expired": "04-02-2025 18:56",
             "host": "sg1",
