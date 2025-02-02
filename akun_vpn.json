@@ -478,5 +478,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "6707564978": [
+        {
+            "vpn_type": "ssh",
+            "username": "frestea",
+            "expired": "05-02-2025 00:48",
+            "host": "id1",
+            "label": "Non-STB"
+        }
     ]
 }
