@@ -443,6 +443,13 @@
             "expired": "28-02-2025 22:52",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "backup",
+            "expired": "04-02-2025 20:03",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "559335306": [
