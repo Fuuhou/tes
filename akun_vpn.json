@@ -36,13 +36,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "ssh",
-            "username": "pccc",
-            "expired": "04-02-2025 06:05",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vmessws",
             "username": "silit",
             "expired": "05-02-2025 18:46",
