@@ -160,6 +160,13 @@
             "expired": "05-03-2025 11:18",
             "host": "id1",
             "label": "STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "JRX",
+            "expired": "05-03-2025 18:07",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
