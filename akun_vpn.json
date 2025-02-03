@@ -153,6 +153,13 @@
             "expired": "04-03-2025 18:22",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "dukee",
+            "expired": "05-03-2025 11:18",
+            "host": "id1",
+            "label": "STB"
         }
     ],
     "2145066786": [
