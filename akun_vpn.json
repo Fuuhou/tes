@@ -447,13 +447,6 @@
     ],
     "559335306": [
         {
-            "vpn_type": "vmessws",
-            "username": "miawsg",
-            "expired": "03-02-2025 19:23",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "miawid",
             "expired": "24-02-2025 18:39",
