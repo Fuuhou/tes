@@ -486,6 +486,13 @@
             "expired": "05-02-2025 00:48",
             "host": "id1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "frestea2",
+            "expired": "06-02-2025 15:25",
+            "host": "id1",
+            "label": "Non-STB"
         }
     ]
 }
