@@ -153,6 +153,13 @@
             "expired": "06-03-2025 16:21",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Silit",
+            "expired": "07-03-2025 21:11",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
