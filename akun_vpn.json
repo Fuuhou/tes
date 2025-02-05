@@ -457,6 +457,13 @@
             "expired": "28-02-2025 22:52",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "DIAN",
+            "expired": "10-02-2025 12:00",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "559335306": [
