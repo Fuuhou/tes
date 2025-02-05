@@ -369,6 +369,13 @@
             "expired": "04-03-2025 23:17",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "biawak",
+            "expired": "06-02-2025 11:14",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6975086445": [
