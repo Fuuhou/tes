@@ -461,7 +461,7 @@
         {
             "vpn_type": "vlessws",
             "username": "DIAN",
-            "expired": "10-02-2025 12:00",
+            "expired": "23-02-2025 12:00",
             "host": "sg1",
             "label": "Non-STB"
         }
