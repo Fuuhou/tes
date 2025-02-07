@@ -1,1 +1,11 @@
-{}
+{
+    "1171149707": [
+        {
+            "vpn_type": "ssh",
+            "username": "server",
+            "expired": "08-02-2025 11:56",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ]
+}
