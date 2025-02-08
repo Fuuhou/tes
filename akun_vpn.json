@@ -429,6 +429,13 @@
             "expired": "09-03-2025 15:57",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "LANI",
+            "expired": "10-03-2025 19:54",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "559335306": [
