@@ -339,6 +339,13 @@
             "expired": "04-03-2025 01:32",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "via",
+            "expired": "12-03-2025 18:31",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "5076779269": [
