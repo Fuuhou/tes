@@ -360,6 +360,13 @@
             "expired": "12-03-2025 18:31",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "jati",
+            "expired": "12-03-2025 18:29",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "5076779269": [
