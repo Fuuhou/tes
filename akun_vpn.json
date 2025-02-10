@@ -471,14 +471,5 @@
             "host": "sg1",
             "label": "Non-STB"
         }
-    ],
-    "6707564978": [
-        {
-            "vpn_type": "vmessws",
-            "username": "frestea",
-            "expired": "10-02-2025 10:53",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
     ]
 }
