@@ -16,13 +16,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "wahyuu",
-            "expired": "12-02-2025 15:56",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "hasbi",
             "expired": "15-02-2025 15:55",
             "host": "sg1",
