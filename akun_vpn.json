@@ -457,5 +457,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "6707564978": [
+        {
+            "vpn_type": "trojanws",
+            "username": "frestea01",
+            "expired": "16-02-2025 12:36",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
     ]
 }
