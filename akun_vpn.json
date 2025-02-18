@@ -111,6 +111,13 @@
             "expired": "18-03-2025 18:05",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "nawirr",
+            "expired": "20-03-2025 16:53",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6270543236": [
