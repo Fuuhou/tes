@@ -250,7 +250,7 @@
         {
             "vpn_type": "ssh",
             "username": "teslah",
-            "expired": "01-03-2025 06:45",
+            "expired": "04-03-2025 06:45",
             "host": "sg1",
             "label": "Non-STB"
         }
