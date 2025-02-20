@@ -451,13 +451,6 @@
             "expired": "26-02-2025 06:47",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "anjingg",
-            "expired": "25-02-2025 06:49",
-            "host": "sg1",
-            "label": "Non-STB"
         }
     ]
 }
