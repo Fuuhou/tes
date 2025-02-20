@@ -246,6 +246,13 @@
             "expired": "13-03-2025 17:36",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "teslah",
+            "expired": "22-02-2025 21:35",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "2145066786": [
