@@ -448,7 +448,7 @@
         {
             "vpn_type": "ssh",
             "username": "anjiing",
-            "expired": "25-02-2025 06:47",
+            "expired": "26-02-2025 06:47",
             "host": "sg1",
             "label": "Non-STB"
         }
