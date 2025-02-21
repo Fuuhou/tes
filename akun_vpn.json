@@ -462,7 +462,7 @@
         {
             "vpn_type": "ssh",
             "username": "monyet",
-            "expired": "25-02-2025 07:01",
+            "expired": "26-02-2025 07:02",
             "host": "sg1",
             "label": "Non-STB"
         }
