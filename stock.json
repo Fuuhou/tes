@@ -1,12 +1,38 @@
 {
-    "103.217.210.12": {
-        "host": "id1",
-        "stock_vpn": 37,
-        "limit_stock_vpn": 50
+    "6353236171": {
+        "enabled": true,
+        "stock_vpn": 0
     },
-    "91.192.81.123": {
-        "host": "sg1",
-        "stock_vpn": 9,
-        "limit_stock_vpn": 60
+    "1285536317": {
+        "enabled": true,
+        "stock_vpn": 0
+    },
+    "6270543236": {
+        "enabled": true,
+        "stock_vpn": 0
+    },
+    "5076779269": {
+        "enabled": true,
+        "stock_vpn": 0
+    },
+    "6975086445": {
+        "enabled": true,
+        "stock_vpn": 0
+    },
+    "1171149707": {
+        "enabled": true,
+        "stock_vpn": 0
+    },
+    "7213801789": {
+        "enabled": true,
+        "stock_vpn": 0
+    },
+    "559335306": {
+        "enabled": true,
+        "stock_vpn": 0
+    },
+    "6707564978": {
+        "enabled": true,
+        "stock_vpn": 0
     }
 }
