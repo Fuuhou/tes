@@ -439,7 +439,7 @@
         {
             "vpn_type": "ssh",
             "username": "panda",
-            "expired": "22-06-2025 13:40",
+            "expired": "24-06-2025 13:40",
             "host": "sg1",
             "label": "Non-STB"
         }
