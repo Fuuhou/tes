@@ -421,15 +421,6 @@
             "label": "Non-STB"
         }
     ],
-    "394040037": [
-        {
-            "vpn_type": "ssh",
-            "username": "panda",
-            "expired": "11-08-2025 13:40",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "6353236171": [
         {
             "vpn_type": "ssh",
