@@ -122,13 +122,6 @@
             "label": "STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "Yann",
-            "expired": "22-02-2025 13:17",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "trojanws",
             "username": "Pahri",
             "expired": "26-02-2025 18:02",
