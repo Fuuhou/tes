@@ -1,9 +1,4 @@
 {
-    "103.217.210.12": {
-        "host": "id1",
-        "stock_vpn": 37,
-        "limit_stock_vpn": 50
-    },
     "91.192.81.123": {
         "host": "sg1",
         "stock_vpn": 2,
