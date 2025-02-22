@@ -9,13 +9,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "amin",
-            "expired": "21-02-2025 19:02",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "apeng",
             "expired": "23-02-2025 13:17",
             "host": "id1",
@@ -261,13 +254,6 @@
             "username": "aziz",
             "expired": "13-03-2025 16:34",
             "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "Rendy",
-            "expired": "21-02-2025 15:14",
-            "host": "sg1",
             "label": "Non-STB"
         },
         {
