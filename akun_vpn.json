@@ -322,6 +322,13 @@
             "expired": "08-04-2025 21:28",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "PutriSG",
+            "expired": "24-04-2025 22:02",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "7213801789": [
