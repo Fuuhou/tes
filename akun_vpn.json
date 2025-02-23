@@ -382,13 +382,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "ssh",
-            "username": "nyiu",
-            "expired": "23-02-2025 10:55",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vmessws",
             "username": "kiku",
             "expired": "23-02-2025 16:51",
