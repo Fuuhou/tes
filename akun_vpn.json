@@ -130,13 +130,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "zaini",
-            "expired": "23-02-2025 08:21",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Krauser",
             "expired": "26-02-2025 14:48",
             "host": "sg1",
