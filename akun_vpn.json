@@ -9,13 +9,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "fatur",
-            "expired": "25-02-2025 19:12",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "papaci",
             "expired": "26-02-2025 10:57",
             "host": "sg1",
