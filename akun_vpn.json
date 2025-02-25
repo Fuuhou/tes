@@ -410,13 +410,6 @@
     "6353236171": [
         {
             "vpn_type": "ssh",
-            "username": "anjiing",
-            "expired": "26-02-2025 06:47",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "babiii",
             "expired": "26-02-2025 06:54",
             "host": "sg1",
