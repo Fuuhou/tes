@@ -109,13 +109,6 @@
         },
         {
             "vpn_type": "trojanws",
-            "username": "Pahri",
-            "expired": "26-02-2025 18:02",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "trojanws",
             "username": "Ciella",
             "expired": "26-02-2025 18:06",
             "host": "id1",
