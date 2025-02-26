@@ -108,13 +108,6 @@
             "label": "STB"
         },
         {
-            "vpn_type": "trojanws",
-            "username": "Ciella",
-            "expired": "26-02-2025 18:06",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "ssh",
             "username": "paidi",
             "expired": "01-03-2025 09:26",
