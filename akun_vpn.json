@@ -97,13 +97,6 @@
             "expired": "30-03-2025 09:15",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "papaci",
-            "expired": "30-03-2025 21:10",
-            "host": "sg1",
-            "label": "Non-STB"
         }
     ],
     "6270543236": [
