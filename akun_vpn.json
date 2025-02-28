@@ -313,13 +313,6 @@
     "7213801789": [
         {
             "vpn_type": "vlessws",
-            "username": "buyerr1",
-            "expired": "28-02-2025 22:52",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
             "username": "NOVNOV",
             "expired": "09-03-2025 15:57",
             "host": "sg1",
