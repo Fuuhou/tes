@@ -97,6 +97,13 @@
             "expired": "29-03-2025 21:48",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "anjas",
+            "expired": "30-03-2025 09:15",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6270543236": [
