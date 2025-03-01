@@ -372,15 +372,6 @@
             "label": "Non-STB"
         }
     ],
-    "6353236171": [
-        {
-            "vpn_type": "ssh",
-            "username": "monyet",
-            "expired": "01-03-2025 07:00",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "6707564978": [
         {
             "vpn_type": "vmessws",
