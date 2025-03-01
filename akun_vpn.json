@@ -90,6 +90,13 @@
             "expired": "31-03-2025 09:57",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "aldi",
+            "expired": "31-03-2025 20:22",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6270543236": [
