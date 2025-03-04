@@ -1,7 +1,370 @@
 {
-    "91.192.81.123": {
-        "host": "sg1",
-        "stock_vpn": 16,
-        "limit_stock_vpn": 60
-    }
+    "1171149707": [
+        {
+            "vpn_type": "ssh",
+            "username": "umar",
+            "expired": "03-03-2025 15:59",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "rapli",
+            "expired": "04-03-2025 23:17",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "cupy",
+            "expired": "09-03-2025 17:41",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "umi",
+            "expired": "11-03-2025 16:51",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "wahyuu",
+            "expired": "15-03-2025 19:36",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "amattt",
+            "expired": "18-03-2025 18:05",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "nawirr",
+            "expired": "20-03-2025 16:53",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "egi",
+            "expired": "21-03-2025 17:55",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "jalil",
+            "expired": "21-03-2025 20:45",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "fatur02",
+            "expired": "27-03-2025 18:17",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "sahril",
+            "expired": "29-03-2025 21:48",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "anjas",
+            "expired": "30-03-2025 09:15",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "apin",
+            "expired": "31-03-2025 09:57",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "aldi",
+            "expired": "31-03-2025 20:22",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "6270543236": [
+        {
+            "vpn_type": "vmessws",
+            "username": "VMES2109",
+            "expired": "20-03-2025 09:20",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "Sentii",
+            "expired": "17-04-2025 23:10",
+            "host": "id1",
+            "label": "STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "isti",
+            "expired": "02-03-2025 13:04",
+            "host": "id1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "azkia",
+            "expired": "02-03-2025 13:04",
+            "host": "id1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Anwar",
+            "expired": "04-03-2025 18:22",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "dukee",
+            "expired": "05-03-2025 11:18",
+            "host": "id1",
+            "label": "STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "JRX",
+            "expired": "05-03-2025 18:07",
+            "host": "id1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "yuz",
+            "expired": "06-03-2025 04:00",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "RIZKI0402SG",
+            "expired": "06-03-2025 16:21",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "Silit",
+            "expired": "07-03-2025 21:11",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "rifan",
+            "expired": "11-03-2025 18:47",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "blezenten",
+            "expired": "13-03-2025 17:36",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "teslah",
+            "expired": "06-03-2025 06:45",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "2145066786": [
+        {
+            "vpn_type": "vmessws",
+            "username": "aziz",
+            "expired": "13-03-2025 16:34",
+            "host": "id1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "heri",
+            "expired": "04-03-2025 01:32",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "via",
+            "expired": "12-03-2025 18:31",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "jati",
+            "expired": "12-03-2025 18:29",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "haikal",
+            "expired": "13-03-2025 20:46",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "amel",
+            "expired": "13-03-2025 20:58",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "fikrii",
+            "expired": "25-03-2025 15:16",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "untung",
+            "expired": "28-03-2025 11:02",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "rendy",
+            "expired": "30-03-2025 17:03",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "5076779269": [
+        {
+            "vpn_type": "vmessws",
+            "username": "DONNA",
+            "expired": "13-03-2025 21:53",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "6975086445": [
+        {
+            "vpn_type": "vmessws",
+            "username": "Alek",
+            "expired": "12-03-2025 20:36",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "SarahSG",
+            "expired": "05-03-2025 18:52",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "FikriSG",
+            "expired": "08-04-2025 21:28",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "PutriSG",
+            "expired": "24-04-2025 22:02",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "7213801789": [
+        {
+            "vpn_type": "vlessws",
+            "username": "NOVNOV",
+            "expired": "09-03-2025 15:57",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vlessws",
+            "username": "LANI",
+            "expired": "10-03-2025 19:54",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "buyerrizki",
+            "expired": "16-03-2025 10:46",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "BUKLENI",
+            "expired": "11-03-2025 17:11",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "BUDELENI",
+            "expired": "10-03-2025 17:46",
+            "host": "sg1",
+            "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "nova",
+            "expired": "10-03-2025 12:58",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "1285536317": [
+        {
+            "vpn_type": "vlessws",
+            "username": "village",
+            "expired": "06-03-2025 20:46",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "394040037": [
+        {
+            "vpn_type": "ssh",
+            "username": "panda",
+            "expired": "11-08-2025 13:40",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ],
+    "6707564978": [
+        {
+            "vpn_type": "vmessws",
+            "username": "mariabelle",
+            "expired": "04-03-2025 12:21",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
+    ]
 }
