@@ -1,7 +1,7 @@
 {
     "91.192.81.123": {
         "host": "sg1",
-        "stock_vpn": 16,
+        "stock_vpn": 15,
         "limit_stock_vpn": 60
     }
 }
