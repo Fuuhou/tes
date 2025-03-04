@@ -115,13 +115,6 @@
             "label": "STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "Anwar",
-            "expired": "04-03-2025 18:22",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "ssh",
             "username": "dukee",
             "expired": "05-03-2025 11:18",
