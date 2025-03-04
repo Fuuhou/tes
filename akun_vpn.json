@@ -2,13 +2,6 @@
     "1171149707": [
         {
             "vpn_type": "ssh",
-            "username": "umar",
-            "expired": "03-03-2025 15:59",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "rapli",
             "expired": "04-03-2025 23:17",
             "host": "sg1",
@@ -116,20 +109,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "isti",
-            "expired": "02-03-2025 13:04",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "azkia",
-            "expired": "02-03-2025 13:04",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Anwar",
             "expired": "04-03-2025 18:22",
             "host": "sg1",
@@ -205,13 +184,6 @@
             "username": "aziz",
             "expired": "13-03-2025 16:34",
             "host": "id1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "heri",
-            "expired": "04-03-2025 01:32",
-            "host": "sg1",
             "label": "Non-STB"
         },
         {
