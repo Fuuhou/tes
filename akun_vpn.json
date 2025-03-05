@@ -108,13 +108,6 @@
             "label": "STB"
         },
         {
-            "vpn_type": "vmessws",
-            "username": "JRX",
-            "expired": "05-03-2025 18:07",
-            "host": "id1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "ssh",
             "username": "yuz",
             "expired": "06-03-2025 04:00",
