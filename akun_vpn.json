@@ -277,15 +277,6 @@
             "label": "Non-STB"
         }
     ],
-    "1285536317": [
-        {
-            "vpn_type": "vlessws",
-            "username": "village",
-            "expired": "06-03-2025 20:46",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "394040037": [
         {
             "vpn_type": "ssh",
