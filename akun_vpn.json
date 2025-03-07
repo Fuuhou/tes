@@ -294,5 +294,14 @@
             "host": "sg1",
             "label": "Non-STB"
         }
+    ],
+    "6707564978": [
+        {
+            "vpn_type": "vmessws",
+            "username": "mariabelle",
+            "expired": "10-03-2025 13:57",
+            "host": "sg1",
+            "label": "Non-STB"
+        }
     ]
 }
