@@ -263,13 +263,6 @@
             "label": "Non-STB"
         },
         {
-            "vpn_type": "ssh",
-            "username": "BUDELENI",
-            "expired": "10-03-2025 17:46",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "HANA",
             "expired": "09-04-2025 09:06",
