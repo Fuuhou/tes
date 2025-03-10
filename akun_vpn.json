@@ -298,13 +298,6 @@
     "6707564978": [
         {
             "vpn_type": "vmessws",
-            "username": "mariabelle",
-            "expired": "10-03-2025 13:57",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "Escape",
             "expired": "16-03-2025 18:54",
             "host": "sg1",
