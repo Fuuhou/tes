@@ -206,13 +206,6 @@
     "6975086445": [
         {
             "vpn_type": "vmessws",
-            "username": "Alek",
-            "expired": "12-03-2025 20:36",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "FikriSG",
             "expired": "08-04-2025 21:28",
             "host": "sg1",
