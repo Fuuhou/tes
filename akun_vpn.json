@@ -185,6 +185,13 @@
             "expired": "09-04-2025 16:34",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "vmessws",
+            "username": "msri",
+            "expired": "12-04-2025 18:08",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "5076779269": [
