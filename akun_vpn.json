@@ -2,13 +2,6 @@
     "1171149707": [
         {
             "vpn_type": "ssh",
-            "username": "wahyuu",
-            "expired": "15-03-2025 19:36",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "amattt",
             "expired": "18-03-2025 18:05",
             "host": "sg1",
