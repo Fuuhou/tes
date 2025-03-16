@@ -256,13 +256,6 @@
     ],
     "7213801789": [
         {
-            "vpn_type": "vmessws",
-            "username": "buyerrizki",
-            "expired": "16-03-2025 10:46",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "HANA",
             "expired": "09-04-2025 09:06",
