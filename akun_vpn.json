@@ -268,13 +268,6 @@
             "expired": "05-04-2025 03:34",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vlessws",
-            "username": "ngabisinsaldo",
-            "expired": "17-03-2025 04:00",
-            "host": "sg1",
-            "label": "Non-STB"
         }
     ],
     "394040037": [
