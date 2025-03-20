@@ -287,21 +287,5 @@
             "host": "sg1",
             "label": "Non-STB"
         }
-    ],
-    "6707564978": [
-        {
-            "vpn_type": "vmessws",
-            "username": "Escape",
-            "expired": "20-03-2025 14:03",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
-            "username": "mariabelle",
-            "expired": "21-03-2025 14:04",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
     ]
 }
