@@ -115,13 +115,6 @@
     ],
     "6270543236": [
         {
-            "vpn_type": "vmessws",
-            "username": "VMES2109",
-            "expired": "20-03-2025 09:20",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
             "vpn_type": "vlessws",
             "username": "Sentii",
             "expired": "17-04-2025 23:10",
