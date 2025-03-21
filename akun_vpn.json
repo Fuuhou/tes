@@ -104,6 +104,13 @@
             "expired": "12-04-2025 08:17",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "madi",
+            "expired": "20-04-2025 15:50",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6270543236": [
