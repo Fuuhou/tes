@@ -104,6 +104,13 @@
             "expired": "28-04-2025 08:12",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "anjazz",
+            "expired": "29-04-2025 10:47",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6270543236": [
