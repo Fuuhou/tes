@@ -247,13 +247,6 @@
     "1077104614": [
         {
             "vpn_type": "vmessws",
-            "username": "RIZKI0603SG",
-            "expired": "05-04-2025 20:15",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "RIZKI0504SG",
             "expired": "05-05-2025 13:22",
             "host": "sg1",
