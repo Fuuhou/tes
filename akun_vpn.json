@@ -97,6 +97,13 @@
             "expired": "05-05-2025 20:31",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "raplii",
+            "expired": "07-05-2025 08:10",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6270543236": [
