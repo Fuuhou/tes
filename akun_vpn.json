@@ -219,15 +219,6 @@
             "label": "Non-STB"
         }
     ],
-    "7213801789": [
-        {
-            "vpn_type": "vlessws",
-            "username": "HANA",
-            "expired": "09-04-2025 09:06",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "394040037": [
         {
             "vpn_type": "ssh",
