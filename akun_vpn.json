@@ -90,6 +90,13 @@
             "expired": "14-04-2025 18:17",
             "host": "sg1",
             "label": "Non-STB"
+        },
+        {
+            "vpn_type": "ssh",
+            "username": "umi",
+            "expired": "12-05-2025 18:56",
+            "host": "sg1",
+            "label": "Non-STB"
         }
     ],
     "6270543236": [
