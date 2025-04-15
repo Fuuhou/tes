@@ -90,13 +90,6 @@
             "expired": "15-05-2025 09:08",
             "host": "sg1",
             "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
-            "username": "awiniar",
-            "expired": "15-05-2025 09:11",
-            "host": "sg1",
-            "label": "Non-STB"
         }
     ],
     "6270543236": [
