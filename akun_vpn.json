@@ -109,13 +109,6 @@
         },
         {
             "vpn_type": "ssh",
-            "username": "tesjing",
-            "expired": "16-04-2025 15:07",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "ssh",
             "username": "wyshdjk",
             "expired": "16-04-2025 15:40",
             "host": "sg1",
