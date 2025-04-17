@@ -87,13 +87,6 @@
     ],
     "6270543236": [
         {
-            "vpn_type": "vlessws",
-            "username": "Sentii",
-            "expired": "17-04-2025 23:10",
-            "host": "id1",
-            "label": "STB"
-        },
-        {
             "vpn_type": "ssh",
             "username": "rifan",
             "expired": "11-05-2025 12:11",
