@@ -154,15 +154,6 @@
             "label": "Non-STB"
         }
     ],
-    "6975086445": [
-        {
-            "vpn_type": "vmessws",
-            "username": "PutriSG",
-            "expired": "24-04-2025 22:02",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "394040037": [
         {
             "vpn_type": "ssh",
