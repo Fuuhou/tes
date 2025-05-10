@@ -75,15 +75,6 @@
             "label": "Non-STB"
         }
     ],
-    "5076779269": [
-        {
-            "vpn_type": "vmessws",
-            "username": "kaka",
-            "expired": "10-05-2025 21:17",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "394040037": [
         {
             "vpn_type": "ssh",
