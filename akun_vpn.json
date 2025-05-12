@@ -18,13 +18,6 @@
         },
         {
             "vpn_type": "vmessws",
-            "username": "viaa",
-            "expired": "12-05-2025 20:07",
-            "host": "sg1",
-            "label": "Non-STB"
-        },
-        {
-            "vpn_type": "vmessws",
             "username": "joko",
             "expired": "12-05-2025 20:24",
             "host": "sg1",
