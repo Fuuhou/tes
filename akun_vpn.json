@@ -1,13 +1,4 @@
 {
-    "1171149707": [
-        {
-            "vpn_type": "ssh",
-            "username": "paparagil",
-            "expired": "15-05-2025 14:32",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
     "2145066786": [
         {
             "vpn_type": "vmessws",
