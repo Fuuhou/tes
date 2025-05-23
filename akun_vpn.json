@@ -1,20 +1,7 @@
 {
-    "2145066786": [
-        {
-            "vpn_type": "vmessws",
-            "username": "fikri2",
-            "expired": "30-05-2025 17:25",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ],
-    "394040037": [
-        {
-            "vpn_type": "ssh",
-            "username": "panda",
-            "expired": "11-08-2025 13:40",
-            "host": "sg1",
-            "label": "Non-STB"
-        }
-    ]
+    "91.192.81.123": {
+        "host": "sg1",
+        "stock_vpn": 58,
+        "limit_stock_vpn": 60
+    }
 }
