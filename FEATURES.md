@@ -4,7 +4,7 @@ Welcome to the official feature guide for **Auto-UserBot Manager**. Our system i
 
 ---
 
-## 🟢 Regular Member
+## 📦 Regular Member
 *The essential starter kit for basic automation.*
 
 - **Userbot Account**: Maximum **1 Account**.
@@ -21,7 +21,7 @@ Welcome to the official feature guide for **Auto-UserBot Manager**. Our system i
 
 ---
 
-## 🟡 Plus Member
+## 🎁 Plus Member
 *Enhanced flexibility for professional promoters.*
 
 - **Userbot Account**: Maximum **1 Account**.
