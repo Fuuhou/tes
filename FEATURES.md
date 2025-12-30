@@ -73,5 +73,4 @@ Welcome to the official feature guide for **Auto-UserBot Manager**. Our system i
 5. **Member Recovery**: Expired members are safely stored for 3 days before permanent deletion.
 6. **Modern UI**: Clean, numbered button grid for easy navigation and management.
 
-**Contact**
-_Owner:_ https://t.me/xiesz
+**Contact Owner :** https://t.me/xiesz
