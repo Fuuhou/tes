@@ -73,4 +73,5 @@ Welcome to the official feature guide for **Auto-UserBot Manager**. Our system i
 5. **Member Recovery**: Expired members are safely stored for 3 days before permanent deletion.
 6. **Modern UI**: Clean, numbered button grid for easy navigation and management.
 
-**Ready to boost your Telegram game?** Contact the Owner via the bot menu to upgrade your plan!
+**Contact:**
+__Owner:__ https://t.me/xiesz
