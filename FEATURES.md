@@ -55,7 +55,7 @@ Welcome to the official feature guide for **Auto-UserBot Manager**. Our system i
 - **🤖 Smart Assistant (Auto-Reply)**:
   - **Intelligent Status Logic**:
     - **Auto-Disable**: Silently turns off when you are **Online** or send a **Manual Message**.
-    - **Auto-Enable**: Automatically activates back if you have been **Offline for > 3 minutes**.
+    - **Auto-Enable**: Automatically activates back if you have been **Offline for > 10 minutes**.
   - **Advanced Cooldown Logic**:
     - **Keyword Match**: 15-second cooldown for instant responsiveness.
     - **Greeting Message**: 4-hour cooldown to prevent spamming manual conversations.
